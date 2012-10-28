@@ -16,7 +16,7 @@ Album is a sample Module based on the (Getting Started)[http://framework.zend.co
 return array(
     'modules' => array(
         'Application',
-        'Album',
+        'Album',//add this to your configuration
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
