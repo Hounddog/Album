@@ -13,7 +13,6 @@ Album is a sample Module based on the (Getting Started)[http://framework.zend.co
    `application.config.php` file.
 
 ```php
-<?php
 return array(
     'modules' => array(
         'Application',
@@ -32,8 +31,9 @@ return array(
 ```
 
 Copy the These files
- `module/Album/config/database.local.php.dist` to `config/autload/database.local.php`
- `module/Album/config/global.php.dist` to `config/autload/global.php`
+
+ * `module/Album/config/database.local.php.dist` to `config/autload/database.local.php`
+ * `module/Album/config/global.php.dist` to `config/autload/global.php`
 
  ###Usage
  Browser to the album page
