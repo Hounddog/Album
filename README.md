@@ -35,6 +35,9 @@ Copy the These files
  * `module/Album/config/database.local.php.dist` to `config/autload/database.local.php`
  * `module/Album/config/global.php.dist` to `config/autload/global.php`
 
+###Database Setup
+Import module/Album/data/album.sql into your database
+
 ###Usage
 Browser to the album page
 
