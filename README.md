@@ -1,9 +1,8 @@
-
 # Sample Album Modulefor Zend Framework 2
 
 ## Introduction
 
-Album is a sample Module based on the (Getting Started)[http://framework.zend.com/manual/2.0/en/user-guide/overview.html] guide framework.zend.com .
+Album is a sample Module based on the <a href="http://framework.zend.com/manual/2.0/en/user-guide/overview.html">(Getting Started)</a> guide framework.zend.com .
 
 ## Installation
 
