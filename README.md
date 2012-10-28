@@ -35,7 +35,7 @@ Copy the These files
  * `module/Album/config/database.local.php.dist` to `config/autload/database.local.php`
  * `module/Album/config/global.php.dist` to `config/autload/global.php`
 
- ###Usage
- Browser to the album page
+###Usage
+Browser to the album page
 
- `your-domain-name/album`
+`your-domain-name/album`
